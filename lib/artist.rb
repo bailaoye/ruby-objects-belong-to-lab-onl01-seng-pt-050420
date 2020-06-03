@@ -4,7 +4,7 @@ class Artist
     @name = name
   end
 
-  def name
+  def self.name
     @name
   end
 end
